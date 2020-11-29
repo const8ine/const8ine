@@ -1,30 +1,16 @@
 ### Core skills
 
-<style>
-.skill {
-  display: inline-block;
-  min-width: 2em;
-  font-size: 13px;
-  color: #534cb0;
-  background-color: #f8f1ff;
-  padding: 2px 3px 3px 3px;
-  border-radius: 3px;
-  margin: 0 6px 6px 0;
-  text-align: center;
-}
-</style>
-
-<span class="skill">JavaScript</span> 
-<span class="skill">TypeScript</span> 
-<span class="skill">Angular 2+</span> 
-<span class="skill">Vue 2 & 3</span> 
-<span class="skill">React</span> 
-<span class="skill">HTML5</span> 
-<span class="skill">CSS3</span> 
-<span class="skill">SASS/SCSS</span> 
-<span class="skill">Less</span> 
-<span class="skill">Stylus</span> 
-<span class="skill">PostCSS</span>
+**`JavaScript`
+`TypeScript`
+`Angular 2+`
+`Vue 2 & 3`
+`React`
+`HTML5`
+`CSS3`
+`SASS/SCSS`
+`Less`
+`Stylus`
+`PostCSS`**
 
 ### About me
 - 🌱 I’m currently learning Node.js

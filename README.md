@@ -1,26 +1,33 @@
+## Hi 💜
+
+### About me
+- 🧬 <a href="https://github.com/open-genes">@OpenGenes</a> CEO
+- 💼 Experience: <a href="https://github.com/plaify">@plaify</a>, Onelya (RZD), <a href="https://github.com/tutu-ru">@tutu-ru</a>
+- 😍 I like `🧬 biology` and `🎛 UI/UX`
+- 💬 Message me on <a href="https://t.me/const8ine" about="_blank">Telegram</a>
+
+
 ### Core skills
 
-**`JavaScript`
+`JavaScript`
 `TypeScript`
 `Angular 2+`
 `Vue 2 & 3`
 `React`
+`Node.js`
 `HTML5`
 `CSS3`
 `SASS/SCSS`
 `Less`
 `Stylus`
-`PostCSS`**
+`PostCSS`
+`CD/CI`
 
----
-
-### About me
-- 🌱 I’m currently learning Node.js
-- 👯 I’m looking to collaborate on your open source project
-- 💼 I’m currently working on Russian Railways ticket web app UI library on Angular.
-- 💼 Recently worked on <a href="https://github.com/plaify">@plaify</a> — a social network oriented on gamers, publishers and game developers.
-- 😍 I like `🧬 biology` and `🎛 UI/UX`
-- 💬 Message me on <a href="https://t.me/const8ine" about="_blank">Telegram</a>
-
-
+## Current stack
+`JavaScript`
+`TypeScript`
+`Angular 2+`
+`HTML5`
+`CSS3`
+`SASS/SCSS`
 

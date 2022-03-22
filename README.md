@@ -1,4 +1,4 @@
-## Hi 👋
+## ¡Hola Mundo! 👋
 
 ### About me
 - 🧬 <a href="https://github.com/open-genes">@OpenGenes</a> CEO

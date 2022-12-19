@@ -1,7 +1,7 @@
 ## ¡Hola Mundo! 👋
 
 ### About me
-- 🧬 <a href="https://github.com/open-genes">@OpenGenes</a> CEO
+- 🧬 <a href="https://github.com/open-genes">@OpenGenes</a> co-founder
 - 💜 I like `🧬 biology` and `🎛 UI/UX`
 - 💬 Message me on <a href="https://t.me/const8ine" about="_blank">Telegram</a>
 

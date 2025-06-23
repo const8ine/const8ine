@@ -49,3 +49,14 @@
 - My priority is contributing to the biology of aging and longevity science
 
 I'm developing and maintaining **Open Genes**, an open-source, non-commercial biological database of human genes associated with aging and lifespan. After our publication in the *Nucleic Acids Research* journal, Open Genes has received recognition from the scientific community and notable scientists in this field.
+
+---
+
+#### Rosalind Achievements
+**Solved: 8**
+
+![image](https://github.com/user-attachments/assets/771f8c9c-996f-4d37-af89-c13a25acb332) ![image](https://github.com/user-attachments/assets/bf9f1083-0e29-40a5-b1d2-0cdae2a8fc62) ![image](https://github.com/user-attachments/assets/b9a69fcb-7467-4f53-9dd8-0da89142e594) ![image](https://github.com/user-attachments/assets/5b6dd2bf-d0f6-4b89-bf18-efa36f21e4ed)
+
+
+
+

@@ -1,5 +1,7 @@
 <h3 align="center">Senior Full-Stack Developer, <a href="https://github.com/open-genes">@OpenGenes</a> Co-Founder</h3>
-<div align="center"><a href="https://www.linkedin.com/in/constantine-rafikov/" target="blank">LinkedIn</a> | <a href="https://twitter.com/crafikov" target="blank">Twitter</a> | <a href="https://t.me/const8ine" target="blank">Telegram</a></div>
+<div align="center"><a href="https://www.linkedin.com/in/constantine-rafikov/" target="blank">LinkedIn</a> | <a href="https://t.me/tina_argentina" target="blank">Telegram</a></div>
+
+Tina (she/her) 🏳️‍⚧️ (ex: Constantine, the same person)
 
 ### Current Stack
 

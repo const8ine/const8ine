@@ -46,7 +46,7 @@ Tina (she/her) 🏳️‍⚧️ (ex: Constantine, the same person)
 ### About Me
 
 - Transhumanist and longevity activist
-- My name reads as [kon·stuhn·tine]
+- I have more then seven years of experience as a Fullstack/Frontend Engineer (MEAN)
 - My priority is contributing to the biology of aging and longevity science
 
 I'm developing and maintaining **Open Genes**, an open-source, non-commercial biological database of human genes associated with aging and lifespan. After our publication in the *Nucleic Acids Research* journal, Open Genes has received recognition from the scientific community and notable scientists in this field.
